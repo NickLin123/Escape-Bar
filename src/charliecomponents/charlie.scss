@@ -6,7 +6,6 @@
   margin-top: 72px;
 }
 
-
 /* startActivity.js */
 .bannerStartActivity{
   height: calc(60vh - 48px - 64px);
@@ -17,7 +16,7 @@
 
 .bannerStartActivityImg{
   max-height: 100%;  
-  max-width: 100%; 
+  max-width: 100%;
   width: auto;
   height: auto;
   top: 0;  
@@ -39,7 +38,6 @@
       height: 90%;
   }
 }
-
 
 .modal-body {
     /* 100% = dialog height, 120px = header + footer */
@@ -168,8 +166,6 @@
   }
 }
 
-
-
 /* activityInfo.js */
 .height{
   height: 0px;
@@ -183,8 +179,9 @@
   object-fit: contain;
 }
 
-.imgSet{
-  height: 100%;
+.imgBoxSet img{
+  height: 98%;
+  width: 98%;
 }
 
 .heightSet{
